@@ -1,2 +1,2 @@
 # Crud_Typeorm-PostgreSQL
-Crud feito com NodeJS ( ExpressJS ), Typescript, TypeORM e postgreSQL.
+I make this project with NodeJS ( ExpressJS ), Typescript, TypeORM and postgreSQL.
